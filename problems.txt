@@ -1,0 +1,3 @@
+the vpc were marked incorrectly 
+
+then the subnets had issue because it was not going to the us-east-1e
